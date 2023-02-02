@@ -28,7 +28,7 @@ function Credential() {
           </div>
           <Spacer height={40} />
           <Typography variant="button" style={{ padding: 10, margin: 10 }}>
-            Create a verifiable Credential
+            Create a verifiable Presentation
           </Typography>
         </Card>
       </div>
